@@ -7,6 +7,7 @@ An analysis of an A/B test run by **Vanguard**, a US investment management compa
 - 📊 **Tableau dashboard:** [Tableau Public](https://public.tableau.com/app/profile/pariya.lakani/viz/vanguard_dashboard_final/vanguard_executive_dashboard)
 - 📋 **Project board:** [Trello](https://trello.com/b/7HOtFWhm/hufflepuffteam)
 - 🎤 **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1qYbaWaDLsKi3lk0Xy46ItwtnvLfmSy2G/edit?usp=sharing&ouid=109599469251149380786&rtpof=true&sd=true)
+- 🎈 **Streamlit App:** [Streamlit App](https://vanguardsproject.streamlit.app/)
 
 ---
 
