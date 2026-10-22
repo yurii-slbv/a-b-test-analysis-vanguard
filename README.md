@@ -98,7 +98,6 @@ The typical client is **middle-aged (average age about 47)** and a **long-standi
 - **Tools:** Jupyter Notebook, Git & GitHub, Trello (project planning)
 
 ---
-```
 
 | Notebooks | What they cover |
 |---|---|
@@ -118,9 +117,6 @@ cd vanguard-ab-test
 pip install -r requirements.txt
 jupyter notebook
 ```
-
-Run `01_data_cleaning.ipynb` first to create the cleaned files, then open any other notebook.
-
 ---
 
 ## Team
