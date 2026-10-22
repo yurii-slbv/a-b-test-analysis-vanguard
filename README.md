@@ -113,7 +113,7 @@ The typical client is **middle-aged (average age about 47)** and a **long-standi
 
 ```bash
 git clone [repo-link]
-cd vanguard-ab-test
+cd a-b-test-analysis-vanguard
 pip install -r requirements.txt
 jupyter notebook
 ```
