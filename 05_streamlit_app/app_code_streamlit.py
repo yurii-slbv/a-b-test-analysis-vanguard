@@ -62,7 +62,7 @@ st.markdown("""
 # ---------------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("vanguard_tableau_final.csv")
+    df = pd.read_csv("03_tableau/vanguard_tableau_final.csv")
     df['date_time'] = pd.to_datetime(df['date_time'])
     return df
 
